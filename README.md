@@ -1,3 +1,8 @@
+# [To-Do-List](https://eloquent-blini-9c0032.netlify.app/)
+
+This simple web application allow users to add a new task to their to-do list. Users is also able to remove tasks from the list once they have completed them by clicking on the list item. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
